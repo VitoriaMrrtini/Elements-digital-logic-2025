@@ -18,11 +18,7 @@ Projeto de circuitos no Logisim (ou outro simulador que você usar)
 
 🛠️ Ferramentas utilizadas
 
-Logisim Evolution
-
-(Outros softwares, se houver)
-
-Documentação e anotações em Markdown
+Logisim
 
 🎯 Objetivo
 
